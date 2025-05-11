@@ -1,6 +1,6 @@
 # Analise Financeira Descontos x Lucros
 
-<span style="color:red;"><strong>[Acesse meu Notion]</strong></span>([https://github.com/dunaoki](https://www.notion.so/Projeto-An-lise-Financeira-Impacto-dos-Descontos-nas-Vendas-e-Lucros-1e94a17cfd5580f393c1d5249c0e40a7))
+<span style="color:red;"><strong>[Acesse meu Notion]</strong></span>((https://www.notion.so/Projeto-An-lise-Financeira-Impacto-dos-Descontos-nas-Vendas-e-Lucros-1e94a17cfd5580f393c1d5249c0e40a7))
 
 
 > Dashboard interativo desenvolvido para analisar como as políticas de desconto impactam as vendas e lucros da empresa ao longo do tempo.
